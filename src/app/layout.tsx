@@ -4,8 +4,8 @@ import { cn } from "@/lib/utils";
 import "./globals.css";
 import { ReactQueryProvider } from "@/components/providers/react-query-provider";
 import { Toaster } from "@/components/ui/sonner";
-import { Header } from "@/components/shared/header";
-import { Footer } from "@/components/shared/footer";
+import { Header } from "@/components/shared/Header";
+import Footer from "@/components/shared/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
